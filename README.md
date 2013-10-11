@@ -14,10 +14,10 @@ Include the plugin in your html page then use
 
 ## Tasks
 
-1. `grunt jasmine` - Specs
-2. `grunt watch` - Spec Runner
-4. `grunt uglify` - Concat all JS files
-6. `grunt` - Run all tasks
+1. `grunt jasmine` - run specs
+2. `grunt watch` - auto run specs
+3. `grunt uglify` - minify the js files
+4. `grunt` - run all tasks
 
 ## Development
 
