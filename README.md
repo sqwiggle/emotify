@@ -1,4 +1,4 @@
-# jquery.emotify.js :)
+# Emotify :)
 
 Jquery plugin to parse emoticons.
 
